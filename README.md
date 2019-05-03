@@ -1,2 +1,2 @@
 # NLP-in-python
-Thesis functions etc
+NLP fun
